@@ -1,5 +1,5 @@
 # 💫 About Me:
-Skilled frontend developer with extensive experience in Next.js, React.js, and<br>Flutter frameworks, as well as development using AI and ML<br>Holder of certifications in Flutter development, front-end.<br> Dedicated to<br>creating intuitive user experiences and driven by a passion for continuous<br>learning and the exploration of emerging technologies.<br>
+Skilled frontend developer with extensive experience in Next.js, React.js, and<br>Flutter frameworks, as well as development using AI and ML<br>Holder of certifications in Flutter development, Front-End.<br> Dedicated to<br>creating intuitive user experiences and driven by a passion for continuous<br>learning and the exploration of emerging technologies.<br>
 
 
 ## 🌐 Socials:
