@@ -1,5 +1,7 @@
 # 💫 About Me:
-Skilled frontend developer with extensive experience in Next.js, React.js, and<br>Flutter frameworks, as well as development using AI and ML<br>Holder of certifications in Flutter development, Front-End.<br> Dedicated to<br>creating intuitive user experiences and driven by a passion for continuous<br>learning and the exploration of emerging technologies.<br>
+Full-Stack Developer with comprehensive expertise across mobile and web technologies. Specializing in modern application development with proven proficiency in native Android development (Java), cross-platform Flutter framework, React.js, Next.js, React Native, Node.js, Apache Tomcat, and full-stack JavaScript/TypeScript solutions.<br>
+Experienced in end-to-end application development from concept to deployment, cross-platform mobile application architecture, modern web application frameworks and server technologies, user experience optimization and intuitive interface design.<br>
+Committed to delivering scalable, high-performance applications while staying at the forefront of technological innovation through continuous integration with emerging technologies and industry best practices.
 
 
 ## 🌐 Socials:
